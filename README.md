@@ -69,9 +69,9 @@ Note - the headers have been provided for you above.
 ## Testing
 - Write tests to validate the functionality of each method.
 - Ensure the methods are tested thoroughly before submission.
-- The grader will test your class using their own tester program.
+- Your class will be graded using a tester program.
 
 ---
 
 ## Submission Instructions
-Submit only the `NumberArrays` class implementation. Ensure all methods are documented as required.
+Submit the `NumberArrays` class implementation along with your tester code. Ensure all methods are documented as required.
